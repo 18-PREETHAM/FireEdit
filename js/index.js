@@ -2,11 +2,13 @@ $(function() {
 
     // Initialize Firebase configuration
     var config = {
-        apiKey: "AIzaSyAsFK9oDTtsCdqrHAfQKs8_TmNtBOoIkBY",
-        authDomain: "emma-ea74d.firebaseapp.com",
-        databaseURL: "https://emma-ea74d.firebaseio.com",
-        storageBucket: "emma-ea74d.appspot.com",
-        messagingSenderId: "95300595436"
+        apiKey: "AIzaSyCHJF2KO-AwJ1gUY64sn6oGxG9Nf-JX6RQ",
+  authDomain: "mini-proj-180909.firebaseapp.com",
+  projectId: "mini-proj-180909",
+  storageBucket: "mini-proj-180909.appspot.com",
+  messagingSenderId: "52465266405",
+  appId: "1:52465266405:web:c7c510adf04832b1f66e0c",
+  measurementId: "G-L14PT3F0L3"
     };
     firebase.initializeApp(config);
     
